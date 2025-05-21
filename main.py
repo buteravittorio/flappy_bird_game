@@ -54,7 +54,7 @@ while running:
                 gamestarted = True
                 game_start_message.kill()
                 pygame.time.set_timer(column_create_event, 1500)
-            if event.key == pygame.K_ESCAPE and gameover:
+            if event.key == pygame.K_SPACE and gameover:
                 gameover = False
                 gamestarted = False
                 sprites.empty()
