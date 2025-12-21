@@ -1,29 +1,29 @@
 # Flappy Bird Game 🐦
 
-Un'implementazione del celebre gioco arcade **Flappy Bird**, sviluppata per mettere in pratica logiche di game loop, gestione delle collisioni e fisica bidimensionale.
+An implementation of the famous arcade game **Flappy Bird**, developed to practice game loop logic, collision management, and 2D physics.
 
 ---
 
 ## 🎮 Gameplay
-L'obiettivo è semplice: sopravvivere il più a lungo possibile.
-* **Salta**: Premi il tasto dedicato (solitamente `Barra Spaziatrice` o `Click`) per sfidare la gravità.
-* **Evita**: Non toccare i tubi verdi o il terreno.
-* **Punteggio**: Guadagni un punto per ogni coppia di tubi superata.
+The goal is simple: survive for as long as possible.
+* **Jump**: Press the dedicated key (usually `Spacebar` or `Mouse Click`) to defy gravity.
+* **Avoid**: Do not touch the green pipes or the ground.
+* **Score**: Earn one point for every pair of pipes you pass through.
 
-## 🚀 Funzionalità
-- **Fisica Realistica**: Simulazione della gravità e della spinta verso l'alto.
-- **Generazione Procedurale**: I tubi appaiono a intervalli regolari con altezze variabili.
-- **Game Over State**: Sistema di reset rapido per ricominciare subito la partita.
-- **Interfaccia Pulita**: Visualizzazione del punteggio in tempo reale a schermo.
+## 🚀 Features
+- **Realistic Physics**: Simulation of gravity and upward thrust.
+- **Procedural Generation**: Pipes appear at regular intervals with variable heights.
+- **Game Over State**: Quick reset system to restart the match immediately.
+- **Clean Interface**: Real-time score display on the screen.
 
-## 🛠️ Requisiti e Installazione
+## 🛠️ Requirements and Installation
 
-### Prerequisiti
-Assicurati di avere installato sul tuo sistema:
-* Inserisci Linguaggio: Python 3.x
-* Inserisci Libreria: Pygame
+### Prerequisites
+Ensure you have the following installed on your system:
+* Language: **Python 3.x**
+* Library: **Pygame**
 
-### Installazione
-1. Clona il repository sul tuo computer:
+### Installation
+1. Clone the repository to your computer:
    ```bash
    git clone [https://github.com/buteravittorio/flappy_bird_game.git](https://github.com/buteravittorio/flappy_bird_game.git)
