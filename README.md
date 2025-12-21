@@ -27,3 +27,6 @@ Ensure you have the following installed on your system:
 1. Clone the repository to your computer:
    ```bash
    git clone [https://github.com/buteravittorio/flappy_bird_game.git](https://github.com/buteravittorio/flappy_bird_game.git)
+
+## ✍️ Autore
+- **Vittorio Butera** - [Profilo GitHub](https://github.com/buteravittorio)
