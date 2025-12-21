@@ -20,8 +20,8 @@ L'obiettivo è semplice: sopravvivere il più a lungo possibile.
 
 ### Prerequisiti
 Assicurati di avere installato sul tuo sistema:
-* [Inserisci Linguaggio: Python 3.x
-* [Inserisci Libreria: Pygame
+* Inserisci Linguaggio: Python 3.x
+* Inserisci Libreria: Pygame
 
 ### Installazione
 1. Clona il repository sul tuo computer:
