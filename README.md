@@ -28,5 +28,5 @@ Ensure you have the following installed on your system:
    ```bash
    git clone [https://github.com/buteravittorio/flappy_bird_game.git](https://github.com/buteravittorio/flappy_bird_game.git)
 
-## ✍️ Autore
+## ✍️ Author
 - **Vittorio Butera** - [Profilo GitHub](https://github.com/buteravittorio)
