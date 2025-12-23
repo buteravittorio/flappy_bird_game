@@ -17,8 +17,8 @@ The goal is simple: survive for as long as possible.
 - **Clean Interface**: Real-time score display on the screen.
 
 <p align="center">
-  <img src="screenshots/home.png" width="400" />
-  <img src="screenshots/gameplay.png" width="400" />
+  <img src="screenshots/home.png" width="200" />
+  <img src="screenshots/gameplay.png" width="200" />
 </p>
 
 ## 🛠️ Requirements and Installation
