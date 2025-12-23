@@ -16,7 +16,10 @@ The goal is simple: survive for as long as possible.
 - **Game Over State**: Quick reset system to restart the match immediately.
 - **Clean Interface**: Real-time score display on the screen.
 
-<img src="screenshots/home.png" width="200"> <img src="screenshots/gameplay.png" width="200">
+<p align="center">
+  <img src="screenshots/home.png" width="400" />
+  <img src="screenshots/gameplay.png" width="400" />
+</p>
 
 ## 🛠️ Requirements and Installation
 
